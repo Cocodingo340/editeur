@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"fr.umontpellier.iut","l":"Main"},{"p":"fr.umontpellier.iut","l":"Type"}];updateSearchResults();
